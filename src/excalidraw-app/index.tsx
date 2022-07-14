@@ -194,7 +194,7 @@ const initializeScene = async (opts: {
 
 const PlusLPLinkJSX = (
   <p style={{ direction: "ltr", unicodeBidi: "embed" }}>
-    Introducing Excalidraw+
+    Introducing Excalidraw+ Change 1
     <br />
     <a
       href="https://plus.excalidraw.com/plus?utm_source=excalidraw&utm_medium=banner&utm_campaign=launch"
